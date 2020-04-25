@@ -43,11 +43,10 @@ web server, your browser will first connect to a DOmain Name System
 
 # Structure  
 
-1. HTML pages are text documents  
-2.   
+1. The structure of HTML pages 
+2. HTML tags and elements   
+3. Attributes     
  
-  
-
 # Extra Markup  
 
 # HTML5 Layout  
