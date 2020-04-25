@@ -41,18 +41,10 @@ web server, your browser will first connect to a DOmain Name System
 - HTML tags and elements   
 - Attributes  
 
-<p lang="en-us">Paragraph in English</p>
-
 # Extra Markup  
 - Specifying different versions of HTML  
 - Indentifying and grouping elements  
 - Comments, meta information and iframes  
-<iframe
-  width="450"  
-  height="350"  
-  
-  scr="https://maps.google.co.uk/maps?q=moma+new+york&amp;output=embed">
- /iframe>
 
 # HTML5 Layout    
 - HTML5 layout elements  
