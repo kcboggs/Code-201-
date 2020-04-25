@@ -6,7 +6,7 @@
 *Hello I'm here because I am pursuing a career in coding and I heard Code Fellows was the best place to do that.*  
 
 Brian Herbert once said:  
->"The capacity to learn is a gift; the ability to learn is a skill; the willingness to learn is a choice.  
+>"The capacity to learn is a gift; the ability to learn is a skill; the willingness to learn is a choice"    
                                                                                
 
 # Table of Contents
