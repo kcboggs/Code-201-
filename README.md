@@ -11,21 +11,21 @@ Brian Herbert once said:
 
 # Table of Contents
 
-[Introductory HTML & Javascript](introduction.md)  
-[HTML Text, CSS Introduction & Basic JavaScript Instructions](text-intro-basic.md)    
-[HTML Lists, CSS Boxes & JS Control Flow](lists-boxes-control.md)  
-[HTML Links, CSS Layout & JS Functions](links-layout-functions.md)  
-[HTML Images, Color & Text](images-color-text.md)  
-[JS Object Literals, The DOM](object-dom.md)  
-[HTML Labels, JS Constructor Functions](labels-functions.md)  
-[More CSS Layout](layout.md)  
-[Forms & Events](forms-events.md)   
-[JS Debugging](debug.md)    
-[Assorted Topics](topics.md)  
-[DOCS for the HTML canvas Element & Chart.JS](docs-canvas-element.md)  
-[Local Storgae](storage.md)   
-[CSS Transforms, Transitions & Animation](trans-animation.md)    
-[What Google Learned about Teams](google-teams.md)    
+[Read-01 Introductory HTML & Javascript](introduction.md)  
+[Read-02 HTML Text, CSS Introduction & Basic JavaScript Instructions](text-intro-basic.md)    
+[Read-03 HTML Lists, CSS Boxes & JS Control Flow](lists-boxes-control.md)  
+[Read-04 HTML Links, CSS Layout & JS Functions](links-layout-functions.md)  
+[Read-05 HTML Images, Color & Text](images-color-text.md)  
+[Read-06 JS Object Literals, The DOM](object-dom.md)  
+[Read-07 HTML Labels, JS Constructor Functions](labels-functions.md)  
+[Read-08 More CSS Layout](layout.md)  
+[Read-09 Forms & Events](forms-events.md)   
+[Read-10 JS Debugging](debug.md)    
+[Read-11 Assorted Topics](topics.md)  
+[Read-12 DOCS for the HTML canvas Element & Chart.JS](docs-canvas-element.md)  
+[Read-13 Local Storgae](storage.md)   
+[Read-14 CSS Transforms, Transitions & Animation](trans-animation.md)    
+[Read-15 What Google Learned about Teams](google-teams.md)    
 
 
 
