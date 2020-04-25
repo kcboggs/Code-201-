@@ -39,12 +39,18 @@ web server, your browser will first connect to a DOmain Name System
 
 - The structure of HTML pages  
 - HTML tags and elements   
-- Attributes     
- 
+- Attributes  
+<p lang="en-us">Paragraph in English</p>
+
 # Extra Markup  
 - Specifying different versions of HTML  
 - Indentifying and grouping elements  
-- Comments, meta information and iframes 
+- Comments, meta information and iframes  
+<iframe
+  width="450"  
+  height="350"  
+  scr="https://maps.google.co.uk/maps?q=moma+new+york&amp;output=embed">
+ /iframe>
 
 # HTML5 Layout    
 - HTML5 layout elements  
@@ -60,6 +66,7 @@ web server, your browser will first connect to a DOmain Name System
 - 1/a What is a script and how do I create one?  
 - 1/b How do computers fit in with the world around them?  
 - 1/c How do I write a script for a web page?  
+
 
 Jon Duckett  http://www.htmlandcssbook.com/  
 
