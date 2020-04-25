@@ -37,7 +37,7 @@ web server, your browser will first connect to a DOmain Name System
 
 # Structure  
 
-- The structure of HTML pages 
+- The structure of HTML pages  
 - HTML tags and elements   
 - Attributes     
  
@@ -47,8 +47,14 @@ web server, your browser will first connect to a DOmain Name System
 - Comments, meta information and iframes  
 
 # HTML5 Layout    
-- 
+- HTML5 layout elements  
+- How old browsers understand new elements  
+- Styling HTML5 layout elements with CSS  
+
 # Process & Design  
+- How to approach building a site  
+- Understanding your audience and their needs  
+- How to present information visitors want to see  
 
 
 
