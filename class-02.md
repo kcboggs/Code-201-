@@ -19,5 +19,19 @@ subheadings*
 to describe both headings and paragraphs and Semantic
 markups provide extra information; such as where emphasis
 is placed in a sentence, that something you have written 
-is a quotation</p> 
+is a quotation</p>  
+
+# Introducing CSS  
+- What CSS does  
+*CSS associates style rules with HTML elements These rules
+govern how the content of specified elements should be displayed.
+A CSS rule contains two parts: a selector and a declaration.*  
+
+p { 
+  font-family: Arial;}
+
+- How CSS works  
+- Rules,properties and values  
+
+
 
