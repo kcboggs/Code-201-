@@ -11,13 +11,13 @@ subheadings*
 
 - Bold, italic, emphasis  
 
-<b><i>This is how to make a word appear bold</i></b>    
+<b><i>This is how to make a word appear bold and italic</i></b>    
 
 - Structural and semantic markup  
 
-*Structural markup are the elements that you can use
+<p>Structural markup are the elements that you can use
 to describe both headings and paragraphs and Semantic
 markups provide extra information; such as where emphasis
 is placed in a sentence, that something you have written 
-is a quotation*  
+is a quotation</p> 
 
