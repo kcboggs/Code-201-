@@ -36,7 +36,15 @@ p {
 govern how the content of specified elements should be displayed.
 A CSS rule contains two parts: a selector and a declaration.*  
 
-- Rules,properties and values  
+- Rules, properties and values  
+
+*A CSS rule is a grouping of one or more CSS properties which are to be 
+applied to one or more target HTML elements. A CSS rule consists of a CSS 
+selector and a set of CSS properties. The CSS selector determines what HTML 
+elements to target with the CSS rule.*  
+
+
+
 
 
 
