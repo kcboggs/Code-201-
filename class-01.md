@@ -24,7 +24,7 @@ people access the web and clarify some terminology.*
 # How websites are created   
 *All websites use HTML and CSS, content management
 systems, blogging software, and e-commerce platforms
-often add a few more technologies in the mix.*  
+which often add a few more technologies in the mix.*  
 - What you see  
 - How it is created  
 - HTML5 & CSS3  
