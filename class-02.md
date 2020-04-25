@@ -23,15 +23,17 @@ is a quotation</p>
 
 # Introducing CSS  
 - What CSS does  
-*CSS associates style rules with HTML elements These rules
-govern how the content of specified elements should be displayed.
-A CSS rule contains two parts: a selector and a declaration.*  
+*CSS allows you to create rules that control the way that each
+individual box (and the contents of that bax) is presented.  
 
 p { 
   font-family: Arial;}  
 
 - How CSS works  
-*
+*CSS works by associating style rules with HTML elements These rules
+govern how the content of specified elements should be displayed.
+A CSS rule contains two parts: a selector and a declaration.*  
+
 - Rules,properties and values  
 
 
