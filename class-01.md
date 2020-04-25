@@ -8,9 +8,9 @@ this book from scratch.*
 ### The Structure of this book  
 *In order to teach us about web pages, this book was divided
 into three sections:*  
-1. HTML   
-2. CSS     
-3. Practical  
+- HTML   
+- CSS     
+- Practical  
 
 ### How people access the web    
 *Before looking at the code used to build websites
