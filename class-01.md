@@ -56,6 +56,12 @@ web server, your browser will first connect to a DOmain Name System
 - Understanding your audience and their needs  
 - How to present information visitors want to see  
 
+# The ABC of Programming  
+- 1/a What is a script and how do I create one?  
+- 1/b How do computers fit in with the world around them?  
+- 1/c How do I write a script for a web page?  
+
+Jon Duckett  http://www.htmlandcssbook.com/  
 
 
 
