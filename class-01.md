@@ -1,4 +1,3 @@
-
 # Intro   
 Is it hard to learn?    
 
@@ -42,11 +41,12 @@ anywhere in the world. In order for you to find the location of the
 web server, your browser will first connect to a DOmain Name System
 (DNS) server.*
 
-
- 
-
-
 # Structure  
+
+1. HTML pages are text documents  
+2.   
+ 
+  
 
 # Extra Markup  
 
