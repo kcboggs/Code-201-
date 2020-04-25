@@ -1,5 +1,4 @@
-# Intro   
-Is it hard to learn?    
+# Intro     
 
 *Many book that teach HTML and CSS resemble dull manuals.
 To make it easier for you to learn, we threw away the 
@@ -8,16 +7,11 @@ this book from scratch.*
 
 # The Structure of this book  
 
-*In order to teach us about creating web pages, this book was divided into three sections:*
 1. HTML   
 2. CSS     
 3. Practical  
 
-# How people access the web  
-
-*Before looking at the code used to build websites it is 
-important to consider the different ways in which people access
-the web and clarify some terminology.*  
+# How people access the web    
 
 - Browsers  
 - Web servers  
@@ -43,12 +37,15 @@ web server, your browser will first connect to a DOmain Name System
 
 # Structure  
 
-1. The structure of HTML pages 
-2. HTML tags and elements   
-3. Attributes     
+- The structure of HTML pages 
+- HTML tags and elements   
+- Attributes     
  
 # Extra Markup  
+- Specifying different versions of HTML  
+- Indentifying and grouping elements  
+- Comments, meta information and iframes  
 
-# HTML5 Layout  
-
+# HTML5 Layout    
+- 
 # Process & Design  
