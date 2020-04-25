@@ -40,6 +40,7 @@ web server, your browser will first connect to a DOmain Name System
 - The structure of HTML pages  
 - HTML tags and elements   
 - Attributes  
+
 <p lang="en-us">Paragraph in English</p>
 
 # Extra Markup  
@@ -49,6 +50,7 @@ web server, your browser will first connect to a DOmain Name System
 <iframe
   width="450"  
   height="350"  
+  
   scr="https://maps.google.co.uk/maps?q=moma+new+york&amp;output=embed">
  /iframe>
 
@@ -69,98 +71,3 @@ web server, your browser will first connect to a DOmain Name System
 
 
 Jon Duckett  http://www.htmlandcssbook.com/  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
