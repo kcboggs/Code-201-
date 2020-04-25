@@ -24,7 +24,7 @@ is a quotation</p>
 # Introducing CSS  
 - What CSS does  
 *CSS allows you to create rules that control the way that each
-individual box (and the contents of that bax) is presented.  
+individual box (and the contents of that bax) is presented.*  
 
 p { 
   font-family: Arial;}  
