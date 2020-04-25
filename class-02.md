@@ -8,7 +8,9 @@
 <h3>Heading 3</h3>
 *and so on are used for further sectioning under the
 subheadings*  
+
 - Bold, italic, emphasis  
+<b>This is how to make a word appear bold</b>  
 
 - Structural and semantic markup  
 *Structural markup are the elements that you can use
