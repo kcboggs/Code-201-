@@ -11,7 +11,7 @@ subheadings*
 
 - Bold, italic, emphasis  
 
-<b>This is how to make a word appear bold</b>  
+<b><i>This is how to make a word appear bold</i></b>    
 
 - Structural and semantic markup  
 
