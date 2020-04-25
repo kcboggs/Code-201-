@@ -15,11 +15,11 @@ subheadings*
 
 - Structural and semantic markup  
 
-<p>Structural markup are the elements that you can use
+*Structural markup are the elements that you can use
 to describe both headings and paragraphs and Semantic
 markups provide extra information; such as where emphasis
 is placed in a sentence, that something you have written 
-is a quotation</p>  
+is a quotation*  
 
 # Introducing CSS  
 - What CSS does  
@@ -42,6 +42,7 @@ A CSS rule contains two parts: a selector and a declaration.*
 applied to one or more target HTML elements. A CSS rule consists of a CSS 
 selector and a set of CSS properties. The CSS selector determines what HTML 
 elements to target with the CSS rule.*  
+
 
 
 
