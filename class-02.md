@@ -245,4 +245,9 @@ colors = ['white';
          'black'  
          'custom'];  
          
-         
+- Values in an Array  
+
+*Values in an array are accessed as if they are in a numbered list. It is important to know that the
+numbering of this list starts at zero (not one).*  
+
+
