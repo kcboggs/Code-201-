@@ -197,42 +197,43 @@ elShip.className = shipping;
      var quantity = 14;  
      var total = price * quantity;  
 
-
 2.   var price = quantity, total;  
      price = 5;  
      quantity = 14;  
      total = price * quantity;  
      
 3.   var price = 5, quantity = 14;  
-     var total = price * quantity;  
+     var total = price * quantity;    
      
-     
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ - Chaging the Value of a Variable  
+ 
+ - Rule for Naming Variable  
+ 
+ *There are sic rules you must always follow when giving a variable a name*  
+ 
+ 1. The name must begin with a letter, dollar sign ($), or an underscore (_).  
+    It must <b>Not</b> start with a number.  
+    
+ 2. The name can contain letters, numbers, dollar sign ($), or an underscore (_).  
+    Note that you must not use a dash(-) or a periord(.) in a variable name.  
+    
+3. You cannot use <b>Keywords</b> or <>reserved</b> words. Keywords are special  
+   words that tell the interpreter to do something. For example, var is a keyword  
+   used to declare a variable. Reserved words are ones that may be used in a *future*  
+   version of JavaScript.  
+   
+4. All variables are case sensitive, so score and Score would be different variable  
+   names, but it is bad practice to create two variables that have the same name  
+   using different cases.  
+   
+5. Use a name that describes the kind of information that the variable stores.  
+   For example, firstName might be used to store a person's first name, lastName  
+   for their last name, and age for their age.  
+   
+6. If your variable name is made up of more than one word, use a capitol letter  
+   for the first name of every word *after* the first word. For example, firstName  
+   rather than firstname (this is reffered to as camel case). You can also use an  
+   underscore between each word (you cannot use a dash).  
+   
+   
+ 
