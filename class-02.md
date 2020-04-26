@@ -215,7 +215,7 @@ elShip.className = shipping;
     It must <b>Not</b> start with a number.  
     
  2. The name can contain letters, numbers, dollar sign ($), or an underscore (_).  
-    Note that you must not use a dash(-) or a periord(.) in a variable name.  
+    Note that you must not use a dash(-) or a period(.) in a variable name.  
     
 3. You cannot use <b>Keywords</b> or <>reserved</b> words. Keywords are special  
    words that tell the interpreter to do something. For example, var is a keyword  
@@ -232,8 +232,16 @@ elShip.className = shipping;
    
 6. If your variable name is made up of more than one word, use a capitol letter  
    for the first name of every word *after* the first word. For example, firstName  
-   rather than firstname (this is reffered to as camel case). You can also use an  
-   underscore between each word (you cannot use a dash).  
+   rather than firstname (this is referred to as camel case). You can also use an  
+   underscore between each word (you cannot use a dash).    
    
-   
+- Arrays  
+   *An Array is a special type of variable. It doesn't just store one value; it stores a list of values.*  
  
+- Creating an Array  
+
+colors = ['white';  
+         'black'  
+         'custom'];  
+         
+         
