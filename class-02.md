@@ -123,16 +123,16 @@ is how you assign a value
 
 <div class="row">
   <div class="column" style="background-color:#aaa;">
-    <h2>Column 1</h2>
-    <p>Some text..</p>
+    <h2>Numeric Data Type</h2>
+    <p>The numeric data type handles numbers..</p>
   </div>
   <div class="column" style="background-color:#bbb;">
-    <h2>Column 2</h2>
-    <p>Some text..</p>
+    <h2>String Data Type</h2>
+    <p>The strings data type consists of letters and other charaters..</p>
   </div>
   <div class="column" style="background-color:#ccc;">
-    <h2>Column 3</h2>
-    <p>Some text..</p>
+    <h2>Boolean Data Type</h2>
+    <p>Boolean data types can have one of two values: true or false..</p>
   </div>
 </div>
 
