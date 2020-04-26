@@ -1,4 +1,6 @@
-# Intro     
+# Introductory HTML & Javascript  
+
+# Intro      
 
 *Many books that teach HTML and CSS resemble dull manuals.
 To make it easier for you to learn, we threw away the 
