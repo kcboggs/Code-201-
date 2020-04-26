@@ -236,6 +236,7 @@ elShip.className = shipping;
    underscore between each word (you cannot use a dash).    
    
 - Arrays  
+
    *An Array is a special type of variable. It doesn't just store one value; it stores a list of values.*  
  
 - Creating an Array  
