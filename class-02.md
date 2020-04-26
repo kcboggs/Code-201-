@@ -68,7 +68,6 @@ if (hourNow >18 {
 }  
 document.write(greeting);  
 
-
 - Comments  
 
 *You should write comments to explain what your code does. They help make 
@@ -85,6 +84,14 @@ name, so our programs can be understood more clearly by the reader and ourselves
 It is helpful to think of variables as containers that hold information. Their 
 sole purpose is to label and store data in memory. This data can then be used 
 throughout your program.*  
+
+var quantity; is how you declare a variable   
+quantity = 3; is how you assign a value  
+
+- Data Types  
+
+
+
 
 
 
