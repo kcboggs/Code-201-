@@ -154,7 +154,7 @@ total = price * quantity;
 var el = document.getElementById('cost');  
 el.textContent = '$' + total;  
 
-- Using a variable to store a  
+- Using a variable to store a string 
 
 var username;  
 var message;  
@@ -165,6 +165,22 @@ var elName = document.getElementById('name);
 elName.textContent = username;  
 var elNote = document.getElementById('note');  
 elNote.textContent = message;  
+
+- Using quotes inside a string  
+
+var title;  
+var message;  
+title ="Kim's Special Offers";  
+message = '<a href=\"sale.html\"25% off!</a>';  
+
+var elTitle = document.getElementById('title');  
+elTitle.innerHTML = title;  
+var elNote = document.getElementById('note');  
+elNote.innerHTML = message;  
+
+
+
+
 
 
 
