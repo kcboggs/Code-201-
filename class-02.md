@@ -158,7 +158,7 @@ el.textContent = '$' + total;
 
 var username;  
 var message;  
-username = 'Molly';  
+username = 'Kim';  
 message = 'See our upcoming range';   
 
 var elName = document.getElementById('name);  
