@@ -250,4 +250,27 @@ colors = ['white';
 *Values in an array are accessed as if they are in a numbered list. It is important to know that the
 numbering of this list starts at zero (not one).*  
 
+- Accessing & Changing Values in an Array  
+
+*To access a value from an array, after the array name you specify the index number for that value
+ inside square brackets. You can change the value of an item an array by selecting it and assigning
+ it a new value just a you would any other variable (using the equals sign and th enew value for that item).*  
+ 
+ - Expressions  
+ 
+ *An <b>expression</b> evaluates into (results in) a single value. Broadly speaking there are two types of expressions.*
+ 
+ 1. Expressions that just assign a value to a variable  
+        
+        var color = 'beige';  
+        The value of color is now beige  
+        
+2. Expressions that use two or more values to return a single value  
+
+        var area = 3 * 2;  
+        The value of area is now six  
+        
+       
+ 
+
 
