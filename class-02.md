@@ -69,6 +69,14 @@ if (hourNow >18 {
 document.write(greeting);  
 
 
+# Comments  
+
+*You should write comments to explain what your code does. They help make 
+your code easier to read and understand. This can help you and others who 
+read your code.*  
+
+/*Write your notes or comments here*/
+
 
 
 
