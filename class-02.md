@@ -92,6 +92,8 @@ is how you assign a value
 
 - Data Types  
 
+*JavaScript distinguishes between numbers, strings, and true or false values
+known as Booleans.*
 
 <html>
 <head>
@@ -137,7 +139,11 @@ is how you assign a value
 </div>
 
 </body>
-</html>
+</html>  
+
+- Using a variable to store a number  
+
+
 
 
 
