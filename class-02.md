@@ -47,6 +47,31 @@ elements to target with the CSS rule.*
 
 # Basic JavaScript Instructions  
 
+- Statements  
+
+*A script is a series of instructions that a computer can follow one-by-one.
+Each individual instruction or step is known as a statement. Statements should
+end with a semicolon.*  
+
+var today = new Date();
+var hourNow = today.getHours();
+var greeting;  
+
+if (hourNow >18 {
+    greeting = 'Good Evening';  
+}   else if (hourNow >12 {
+    greeting = 'Good Afternoon';  
+}   else if (hourNow >0 {
+    greeting 'Good Morning';  
+}   else {  
+    greeting = 'Welcome';
+}
+document.write(greeting);  
+
+
+
+
+
 
 
 
