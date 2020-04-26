@@ -1,3 +1,5 @@
+#  HTML Text, CSS Introduction & Basic JavaScript Instructions  
+
 # Text  
 - Headings and Paragraphs  
   
@@ -42,6 +44,8 @@ A CSS rule contains two parts: a selector and a declaration.*
 applied to one or more target HTML elements. A CSS rule consists of a CSS 
 selector and a set of CSS properties. The CSS selector determines what HTML 
 elements to target with the CSS rule.*  
+
+# Basic JavaScript Instructions  
 
 
 
