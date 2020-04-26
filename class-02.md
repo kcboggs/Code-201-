@@ -75,7 +75,7 @@ document.write(greeting);
 your code easier to read and understand. This can help you and others who 
 read your code.*  
 
-/*Write your notes or comments here*/
+/* */
 
 
 
