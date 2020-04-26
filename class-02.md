@@ -85,11 +85,14 @@ It is helpful to think of variables as containers that hold information. Their
 sole purpose is to label and store data in memory. This data can then be used 
 throughout your program.*  
 
-var quantity;   is how you declare a variable   
-quantity = 3;   is how you assign a value  
+var quantity;   
+is how you declare a variable   
+quantity = 3;   
+is how you assign a value  
 
 - Data Types  
-<!DOCTYPE html>
+
+
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -116,7 +119,7 @@ quantity = 3;   is how you assign a value
 </head>
 <body>
 
-<h2>Three Equal Columns</h2>
+<h2>Three Different Data Types</h2>
 
 <div class="row">
   <div class="column" style="background-color:#aaa;">
