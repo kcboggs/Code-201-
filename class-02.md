@@ -154,14 +154,22 @@ total = price * quantity;
 var el = document.getElementById('cost');  
 el.textContent = '$' + total;  
 
-- Using a variable to store a string  
+- Using a variable to store a  
 
-public class MyClass {
-  public static void main(String[] args) {
-    String name = "Kim";
-    System.out.println(name);
-  }
-}
+var username;  
+var message;  
+username = 'Molly';  
+message = 'See our upcoming range';   
+
+var elName = document.getElementById('name);  
+elName.textContent = username;  
+var elNote = document.getElementById('note');  
+elNote.textContent = message;  
+
+
+
+
+
 
 
 
