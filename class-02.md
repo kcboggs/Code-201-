@@ -65,7 +65,7 @@ if (hourNow >18 {
     greeting 'Good Morning';  
 }   else {  
     greeting = 'Welcome';
-}
+}  
 document.write(greeting);  
 
 
