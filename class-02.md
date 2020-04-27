@@ -274,40 +274,7 @@ numbering of this list starts at zero (not one).*
   
   *Expressions rely on things called <b>operators</b>; they allows programmers to create a single vallue 
   from one or more values.*  
-  
-  <b>Assignment Operators</b>  
-  Assign a value to a variable  
-  <b>Arithmetic Operators</b>  
-  Perform basic math  
-  <b>String Operators</b>  
-  Combine two strings  
-  <b>Comparison Operators</b>  
-  Compare two values and return true or false    
-  <b>Logical Operators</b>  
-  Combine expressions and return true or false  
-  
-  
-       
-  <!DOCTYPE html>
-<html>
-<head>
-<style>
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
 
-td, th {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
-}
-
-tr:nth-child(even) {
-  background-color: #dddddd;
-}
-</style>
 </head>
 <body>
 
