@@ -1,4 +1,4 @@
-#  HTML Text, CSS Introduction & Basic JavaScript Instructions  
+#  HTML Text, CSS Intro & Basic JavaScript Instructions  
 
 # Text  
 - Headings and Paragraphs  
