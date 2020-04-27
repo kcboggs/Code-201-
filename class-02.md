@@ -254,7 +254,7 @@ numbering of this list starts at zero (not one).*
 
 *To access a value from an array, after the array name you specify the index number for that value
  inside square brackets. You can change the value of an item an array by selecting it and assigning
- it a new value just a you would any other variable (using the equals sign and th enew value for that item).*  
+ it a new value just as you would any other variable (using the equals sign and the new value for that item).*  
  
  - Expressions  
  
@@ -270,7 +270,27 @@ numbering of this list starts at zero (not one).*
         var area = 3 * 2;  
         The value of area is now six  
         
+  - Operators  
+  
+  *Expressions rely on things called <b>operators</b>; they allows programmers to create a single vallue 
+  from one or more values.*  
+  
+  <b>Assignment Operators</b>  
+  Assign a value to a variable  
+  <b>Arithmetic Operators</b>  
+  Perform basic math  
+  <b>String Operators</b>  
+  Combine two strings  
+  <b>Comparison Operators</b>  
+  Compare two values and return true or false    
+  <b>Logical Operators</b>  
+  Combine expressions and return true or false  
+  
+  
        
+  
+  
+      
  
 
 
