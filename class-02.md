@@ -126,15 +126,15 @@ known as Booleans.*
 <div class="row">
   <div class="column" style="background-color:#aaa;">
     <h2>Numeric Data Type</h2>
-    <p>The numeric data type handles numbers..</p>
+    <p>The numeric data type handles numbers.</p>
   </div>
   <div class="column" style="background-color:#bbb;">
     <h2>String Data Type</h2>
-    <p>The strings data type consists of letters and other charaters..</p>
+    <p>The strings data type consists of letters and other characters.</p>
   </div>
   <div class="column" style="background-color:#ccc;">
     <h2>Boolean Data Type</h2>
-    <p>Boolean data types can have one of two values: true or false..</p>
+    <p>Boolean data types can have one of two values: true or false.</p>
   </div>
 </div>
 
