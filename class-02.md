@@ -2,8 +2,8 @@
 
 # Text
 - Headings and Paragraphs    
-  
-<h1>Main Heading</h1>  
+    
+    <h></h>
 *Is used for main headings*  
 <h2>Sub Heading</h2>  
 *Is used for subheadings*  
