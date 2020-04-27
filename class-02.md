@@ -275,11 +275,6 @@ numbering of this list starts at zero (not one).*
   *Expressions rely on things called <b>operators</b>; they allows programmers to create a single vallue 
   from one or more values.*  
 
-</head>
-<body>
-
-<h2>HTML Table</h2>
-
 <table>
   <tr>
     <th>Operators</th>
