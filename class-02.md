@@ -8,8 +8,7 @@
 <h2>Heading2</h2>    
 *Is used for subheadings*    
 <h3>Heading3</h3>  
-*and so on are used for further sectioning under the
-subheadings*    
+*and so on are used for further sectioning under the subheadings*    
 
 - Bold, italic, emphasis  
 
