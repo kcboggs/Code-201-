@@ -305,19 +305,7 @@ numbering of this list starts at zero (not one).*
 
 
 
-<p id="demo"></p>
 
-<script>
-var firstName = 'Kimberley';
-var lastName = 'Cabrera-Boggs';
-var fullName = 'firstName + lastName'; 
-
-document.getElementById("demo").innerHTML =
-answer1 + "<br>" + answer2 + "<br>" + answer3; 
-</script>
-
-</body>
-</html>
 
   
       
