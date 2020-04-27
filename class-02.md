@@ -303,13 +303,7 @@ numbering of this list starts at zero (not one).*
   
 </table>  
 
-<!DOCTYPE html>
-<html>
-<body>
 
-<h2>JavaScript Strings</h2>
-
-<p>You can use quotes inside a string, as long as they don't match the quotes surrounding the string.</p>
 
 <p id="demo"></p>
 
