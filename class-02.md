@@ -3,7 +3,7 @@
 # Text
 - Headings and Paragraphs    
 
-<h>Heading1</h>
+<h1>Heading1</h1>
 *Is used for main headings*  
 <h2>Heading2</h2>  
 *Is used for subheadings*  
