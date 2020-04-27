@@ -1,7 +1,7 @@
   # HTML Text, CSS Intro & Basic JS Instructions        
 
 
-
+# Text
 - Headings and Paragraphs    
   
 <h1>Main Heading</h1>  
