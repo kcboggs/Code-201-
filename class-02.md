@@ -320,36 +320,25 @@ tr:nth-child(even) {
   </tr>
   <tr>
     <td>Assignment</td>  
-    <td>Assign a value to a variable</td>  
-    <td>Arithmetic</td>    
-    <td>Performs basic math</td>  
-    <td>Logical</td>  
+    <td>Assigns a value to a variable</td>   
   </tr>
   <tr>
-    <td></td>
-    <td>Assign a value to a variable</td>
-    <td>Mexico</td>
+    <td>Arithmetic</td>
+    <td>Performs basic math</td>
   </tr>
   <tr>
-    <td>Ernst Handel</td>
-    <td>Roland Mendel</td>
-    <td>Austria</td>
+    <td>String Operators</td>
+    <td>Combine two strings</td>
   </tr>
   <tr>
-    <td>Island Trading</td>
-    <td>Helen Bennett</td>
-    <td>UK</td>
+    <td>Comparison Operators</td>
+    <td>Compare two values and return true or false</td>
   </tr>
   <tr>
-    <td>Laughing Bacchus Winecellars</td>
-    <td>Yoshi Tannamuri</td>
-    <td>Canada</td>
-  </tr>
-  <tr>
-    <td>Magazzini Alimentari Riuniti</td>
-    <td>Giovanni Rovelli</td>
-    <td>Italy</td>
-  </tr>
+    <td>Logical Operators</td>
+    <td>Combine expressions and return true or false</td>
+  </tr>  
+  
 </table>
 
 </body>
