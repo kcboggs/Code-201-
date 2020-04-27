@@ -1,14 +1,14 @@
   # HTML Text, CSS Intro & Basic JS Instructions        
 
 
- # Text  
+
 - Headings and Paragraphs    
   
-<h1></h1>  
+<h1>Main Heading</h1>  
 *Is used for main headings*  
-<h2></h2>  
+<h2>Sub Heading</h2>  
 *Is used for subheadings*  
-<h3></h3>
+<h3>Sub Heading</h3>
 *and so on are used for further sectioning under the
 subheadings*  
 
