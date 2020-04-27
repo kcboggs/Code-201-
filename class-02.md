@@ -1,9 +1,11 @@
   
-# HTML Text, CSS Intro & Basic JS Instructions      
+# HTML Text, CSS Intro & Basic JS Instructions        
+
 
 # Text  
-- Headings and Paragraphs  
+- Headings and Paragraphs    
   
+
 <h1>Heading 1</h1>  
 *Is used for main headings*  
 <h2>Heading 2</h2>  
