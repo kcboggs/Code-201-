@@ -22,10 +22,10 @@ Brian Herbert once said:
 [Read-09 Forms & Events](class-09.md)   
 [Read-10 JS Debugging](class-10.md)    
 [Read-11 Assorted Topics](class-11.md)  
-[Read-12 DOCS for the HTML canvas Element & Chart.JS](docs-canvas-element.md)  
-[Read-13 Local Storgae](storage.md)   
-[Read-14 CSS Transforms, Transitions & Animation](trans-animation.md)    
-[Read-15 What Google Learned about Teams](google-teams.md)    
+[Read-12 DOCS for the HTML canvas Element & Chart.JS](class-12.md)  
+[Read-13 Local Storgae](class-13.md)   
+[Read-14 CSS Transforms, Transitions & Animation](class-14.md)    
+[Read-15 What Google Learned about Teams](class-15.md)    
 
 
 
