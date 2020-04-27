@@ -303,6 +303,8 @@ numbering of this list starts at zero (not one).*
   
 </table>  
 
+Jon Duckett http://www.htmlandcssbook.com/
+
 
 
 
