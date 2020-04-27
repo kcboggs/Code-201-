@@ -12,7 +12,7 @@ Brian Herbert once said:
 # Table of Contents
 
 [Read-01 Introductory HTML & Javascript](class-01.md)  
-[Read-02 HTML Text, CSS Intro & Basic JavaScript Instructions](class-02.md)    
+[Read-02 HTML Text, CSS Introduction & Basic JavaScript Instructions](class-02.md)    
 [Read-03 HTML Lists, CSS Boxes & JS Control Flow](class-03.md)  
 [Read-04 HTML Links, CSS Layout & JS Functions](links-layout-functions.md)  
 [Read-05 HTML Images, Color & Text](images-color-text.md)  
