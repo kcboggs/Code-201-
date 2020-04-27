@@ -1,9 +1,15 @@
-  # HTML Text, CSS Intro & Basic JS Instructions          
+# HTML Text, CSS Intro & Basic JS         
 
 # Text
-- Headings and Paragraphs    
-    
+- Headings and Paragraphs  
 
+ <h>Heading1</h>
+*Is used for main headings*  
+<h2>Heading2</h2>  
+*Is used for subheadings*  
+<h3>Heading3</h3>
+*and so on are used for further sectioning under the
+subheadings*  
 
 - Bold, italic, emphasis  
 
