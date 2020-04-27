@@ -272,7 +272,7 @@ numbering of this list starts at zero (not one).*
         
   - Operators  
   
-  *Expressions rely on things called <b>operators</b>; they allows programmers to create a single vallue 
+  *Expressions rely on things called <b>operators</b>; they allow programmers to create a single vallue 
   from one or more values.*  
 
 <table>
@@ -301,10 +301,9 @@ numbering of this list starts at zero (not one).*
     <td>Combine expressions and return true or false</td>
   </tr>  
   
-</table>
+</table>  
 
-</body>
-</html>
+
   
       
  
