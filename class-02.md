@@ -319,15 +319,15 @@ tr:nth-child(even) {
     <th>What They Do</th>
   </tr>
   <tr>
-    <td>Assignment</td>
-    <td>Arithmetic</td>
-    <td>String</td>  
-    <td>Comparison</td>
-    <td>Logical</td>
+    <td>Assignment</td>  
+    <td>Assign a value to a variable</td>  
+    <td>Arithmetic</td>    
+    <td>Performs basic math</td>  
+    <td>Logical</td>  
   </tr>
   <tr>
     <td></td>
-    <td>Francisco Chang</td>
+    <td>Assign a value to a variable</td>
     <td>Mexico</td>
   </tr>
   <tr>
