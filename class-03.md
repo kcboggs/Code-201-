@@ -20,12 +20,14 @@
   </ul>
   
   *<b>Definition Lists</b> are made up of a set of terms along with the definition
-  for each of those terms.*    
+  for each of those terms.*      
   Example  
   <dl>
     <dt>sashimi<dt>
-  <dd>sliced raw fish that is served with condiments</dd>  
-  </dl>
+  <dd>is sliced raw fish that is served with condiments</dd>  
+  </dl>  
+  
+  
   
 # Boxes  
 
