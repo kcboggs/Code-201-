@@ -27,9 +27,7 @@
   <dd>is sliced raw fish that is served with condiments</dd>  
   <dt>scale</dt>  
   <dd>a device used to accurately measure the weight of ingredients</dd>  
-  </dl>  
-  
-  
+  </dl>    
   
 # Boxes  
 
