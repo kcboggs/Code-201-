@@ -24,10 +24,24 @@
   Example  
   <dl>
     <dt>sashimi<dt>
-  <dd>is sliced raw fish that is served with condiments</dd>  
-  <dt>scale</dt>  
-  <dd>a device used to accurately measure the weight of ingredients</dd>  
-  </dl>    
+    <dd>is sliced raw fish that is served with condiments</dd>  
+    <dt>scale</dt>  
+    <dd>a device used to accurately measure the weight of ingredients</dd>  
+  </dl>  
+  
+  *<b>Nested Lists</b> can be used inside the list element to create a sublist
+  or nested list.*  
+   Example  
+  
+  <ul>
+    <li>mousses</li>
+    <li>pastries  
+      <ul>  
+        <li>croissant</li>  
+        <li>mille-feuille</li>  
+      </ul>  
+    </li>  
+  </ul>  
   
 # Boxes  
 
