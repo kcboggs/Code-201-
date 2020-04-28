@@ -4,9 +4,9 @@
   Numbered, Bullet & Definition lists  
   
   *<b>Ordered Lists</b> are lists where each item in the list is numbered.*  
-  Example  
+  Example 
   <ol>  
-    <li>Open door</li>  
+    <li>open door</li>  
     <li>step outside</li>  
     <li>shut door</li>  
   </ol>  
@@ -15,12 +15,17 @@
   Example  
   <ul>
     <li>step outside</li>
-    <ll>open door</li>
+    <li>open door</li>
     <li>shut door</li>
   </ul>
   
   *<b>Definition Lists</b> are made up of a set of terms along with the definition
-  for each of those terms.*  
+  for each of those terms.*    
+  Example  
+  <dl>
+    <dt>sashimi<dt>
+  <dd>sliced raw fish that is served with condiments</dd>  
+  </dl>
   
 # Boxes  
 
