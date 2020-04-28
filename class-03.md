@@ -30,9 +30,8 @@
   </dl>  
   
   *<b>Nested Lists</b> can be used inside the list element to create a sublist
-  or nested list.*  
-   Example  
-  
+  or nested list.*    
+   Example    
   <ul>
     <li>mousses</li>
     <li>pastries  
