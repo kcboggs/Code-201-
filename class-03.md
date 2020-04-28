@@ -46,7 +46,9 @@
 Controlling size of boxes, Box models for borders, margin & padding & 
 Displaying and hiding boxes  
 
-_Box Dimensions_ (width and height)  
+_<b>Box Dimensions</b>_ (width, height)  
+
+_<b>Limiting Width</b>_ (min-width, max-width)  
 
 # Decisions & Loops  
 
