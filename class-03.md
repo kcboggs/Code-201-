@@ -43,6 +43,10 @@
   </ul>  
   
 # Boxes  
+Controlling size of boxes, Box models for borders, margin & padding & 
+Displaying and hiding boxes  
+
+_Box Dimensions_ (width and height)  
 
 # Decisions & Loops  
 
