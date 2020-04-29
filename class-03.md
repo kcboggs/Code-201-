@@ -50,7 +50,7 @@ Displaying and hiding boxes
 _By default a box is sized just big enough to hold it's contents. Toset your own dimensions 
 for a box you can use the height and width properties._
 
-div {
+div>    
   <p>The Moog company pioneered the commercial manufactor of modular voltage-controlled analog
     synthesizer systems in the early 1950s.</p>
 </div>  
@@ -69,7 +69,20 @@ If you set box-sizing: border-box; on an element, padding and border are include
 properties specifies the smallest size a box can be displayed at when the browser window is narrow, and 
 the mzx-width properties indicates a maximun width a box can stretch to when the browser window is wide.*  
 
+td.description {  
+    min-width: 450px;  
+    max-width: 650px;  
+    tex-align: left;  
+    padding: 5px;  
+    margin: 0px;}    
+   
+ # Limiting Height (min-height, max-height)  
+ 
+ The min-height property defines the minimum height of an element.
 
+If the content is smaller than the minimum height, the minimum height will be applied.
+
+If the content is larger than the minimum height, the min-height property has no effect.
 
 # Decisions & Loops  
 
