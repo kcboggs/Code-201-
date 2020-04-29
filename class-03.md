@@ -146,7 +146,7 @@ border-left-style
 border-right-style  
 border-bottom-style  
  
- #Padding  
+ # Padding  
  *Padding property allows you to specify how much space should appear betwen the content of an element and 
  it's border*  
 
@@ -154,7 +154,23 @@ border-bottom-style
 *Margin property controls the gap between boxes. It's value is commonly given in pixels, although you may also
 percentage or ems*  
 
-# Decisions & Loops  
+# Decissions and Loops  
+
+- Conditional statements allow your code to make decisions about what to do next.  
+- Comparison operators (===, !==, ==, !=, <, >, <=, =>)  
+- Logical operators allow you to combine more than one set of comparison operators.  
+- if...else statements allow you to run one set of code if a condition is true, and another if it is false.  
+- Switch statements allow you to compare a value against possible outcomes (and also provides a default option
+if none match).  
+- Data types can be coered from one type to another.  
+- All values evaluate to either truthy or falsy.  
+- There are three types of loops and each repeats a set of statments:  
+    1. for  
+    2. while  
+    3. do...while  
+    
+    
+         
 
 
 
