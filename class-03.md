@@ -76,13 +76,16 @@ td.description {
     padding: 5px;  
     margin: 0px;}    
    
- # Limiting Height (min-height, max-height)  
- 
- The min-height property defines the minimum height of an element.
-
+ Limiting Height (min-height, max-height)  
+ *The min-height property defines the minimum height of an element.
 If the content is smaller than the minimum height, the minimum height will be applied.
+If the content is larger than the minimum height, the min-height property has no effect.*  
 
-If the content is larger than the minimum height, the min-height property has no effect.
+p {
+  width: 400px;  
+  font-size: 90%;  
+  line-height: 1.2em;)  
+  {
 
 # Decisions & Loops  
 
