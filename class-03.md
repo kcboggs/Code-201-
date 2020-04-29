@@ -87,6 +87,15 @@ p {
   line-height: 1.2em;)  
   {
 
+- Overflowing Content  
+*The overflow property tells the browser what to do if the content contained within the box  
+is larger than the box itself. It can have one of two values.*  
+
+1. Hidden  
+  *This property hides any content that does not fit in the box*
+2. Scroll  
+  *This property adds a scroll bar to the box.*  
+
 # Decisions & Loops  
 
 
