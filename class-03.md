@@ -76,7 +76,7 @@ td.description {
     padding: 5px;  
     margin: 0px;}    
    
- - Limiting Height (min-height, max-height)  
+ - <b>Limiting Height</b> (min-height, max-height)  
  *The min-height property defines the minimum height of an element.
 If the content is smaller than the minimum height, the minimum height will be applied.
 If the content is larger than the minimum height, the min-height property has no effect.*  
@@ -87,15 +87,44 @@ p {
   line-height: 1.2em;)  
   {
 
-- Overflowing Content  
+- <b>Overflowing Content</b>  
 *The overflow property tells the browser what to do if the content contained within the box  
 is larger than the box itself. It can have one of two values.*  
 
-1. Hidden  
-  *This property hides any content that does not fit in the box*
-2. Scroll  
+1. <b>Hidden,/b>    
+  *This property hides any content that does not fit in the box*  
+  p. one {  
+    overflow: hidden;}  
+2. <b>Scroll</b>    
   *This property adds a scroll bar to the box.*  
+  p.two {  
+    overflow: scroll;}  
+  
+# Border, Margin & Padding  
+*Every box has three avaiable properties that can be adjusted to control its appearance.*  
 
+1. Border  
+2. Margin  
+3. Padding  
+
+# White Spacing  
+*The padding and margin properties are very helpful in adding space between various items on the page.*  
+
+#Border Width  
+*The border-width property is used to control the width of the property. The value of this property can either
+be given in pixels or using one of the following values.*  
+
+thin  
+thick  
+medium  
+
+p. one {
+  border-width: 2px;}  
+p. two {  
+  border-width: thick;}  
+p. three {  
+  border-width: 1px 4px 12px 4px;}  
+  
 # Decisions & Loops  
 
 
