@@ -50,12 +50,25 @@ Displaying and hiding boxes
 _By default a box is sized just big enough to hold it's contents. Toset your own dimensions 
 for a box you can use the height and width properties._
 
-<div>
+div {
   <p>The Moog company pioneered the commercial manufactor of modular voltage-controlled analog
     synthesizer systems in the early 1950s.</p>
-</div>
+</div>  
+
+div {
+    height: 300px;  
+    width: 400px;  
+    background-color: #ee3e80:}
+
+The box-sizing property allows us to include the padding and border in an element's total width and height.
+
+If you set box-sizing: border-box; on an element, padding and border are included in the width and height:
 
 # <b>Limiting Width</b> (min-width, max-width)  
+*Some page designs expand and shrink to fit the size of the users screen. In such designs the min-width
+properties specifies the smallest size a box can be displayed at when the browser window is narrow, and 
+the mzx-width properties indicates a maximun width a box can stretch to when the browser window is wide.*  
+
 
 
 # Decisions & Loops  
