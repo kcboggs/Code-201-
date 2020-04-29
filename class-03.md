@@ -91,7 +91,7 @@ p {
 *The overflow property tells the browser what to do if the content contained within the box  
 is larger than the box itself. It can have one of two values.*  
 
-1. <b>Hidden,/b>    
+1. <b>Hidden,</b>    
   *This property hides any content that does not fit in the box*  
   p. one {  
     overflow: hidden;}  
@@ -125,6 +125,28 @@ p. two {
 p. three {  
   border-width: 1px 4px 12px 4px;}  
   
+# Border Style  
+*You can control the style of a border using the border-style property. The property can take the
+folowing values.*  
+
+1. solid   *a single solid line*
+2. dotted  *a seeries of square dots*
+3. dashed  *a series of short lines*  
+4. double  *two solid lines*  
+5. groove  *appears to be carved into the page*  
+6. ridge   *appears to stick out from the page*  
+7. inset   *appears embedded into the page*  
+8. outset  *looks like it is coming out of the screen*  
+9. hidden/non  *no borden is shown*    
+
+You can individually change the styles of different borders by using:  
+
+border-top-style  
+border-left-style  
+border-right-style  
+border-bottom-style  
+ 
+ 
 # Decisions & Loops  
 
 
