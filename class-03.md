@@ -146,12 +146,12 @@ border-left-style
 border-right-style  
 border-bottom-style  
  
- # Padding  
- *Padding property allows you to specify how much space should appear betwen the content of an element and 
- it's border*  
+# Padding    
+ *Padding property allows you to specify how much space should appear between the content of an element and 
+ its border*  
 
 # Margin  
-*Margin property controls the gap between boxes. It's value is commonly given in pixels, although you may also
+*Margin property controls the gap between boxes. Its value is commonly given in pixels, although you may also
 percentage or ems*  
 
 # Decissions and Loops  
@@ -162,12 +162,12 @@ percentage or ems*
 - if...else statements allow you to run one set of code if a condition is true, and another if it is false.  
 - Switch statements allow you to compare a value against possible outcomes (and also provides a default option
 if none match).  
-- Data types can be coered from one type to another.  
+- Data types can be coerced from one type to another.  
 - All values evaluate to either truthy or falsy.  
-- There are three types of loops and each repeats a set of statments:  
-    1. for  
-    2. while  
-    3. do...while  
+- There are three types of loops and each repeats a set of statements:  
+1. for  
+2. while  
+3. do...while  
     
     
          
