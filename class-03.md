@@ -46,7 +46,7 @@
 Controlling size of boxes, Box models for borders, margin & padding & 
 Displaying and hiding boxes  
 
-_<b>Box Dimensions</b>_ (width, height)  
+# <b>Box Dimensions</b> (width, height)  
 _By default a box is sized just big enough to hold it's contents. Toset your own dimensions 
 for a box you can use the height and width properties._
 
@@ -55,7 +55,8 @@ for a box you can use the height and width properties._
     synthesizer systems in the early 1950s.</p>
 </div>
 
-_<b>Limiting Width</b>_ (min-width, max-width)  
+# <b>Limiting Width</b> (min-width, max-width)  
+
 
 # Decisions & Loops  
 
