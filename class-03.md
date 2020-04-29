@@ -168,6 +168,8 @@ if none match).
 1. for  
 2. while  
 3. do...while  
+
+Jon Duckett http://www.htmlandcssbook.com/  
     
     
          
