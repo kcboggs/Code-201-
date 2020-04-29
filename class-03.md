@@ -127,17 +127,17 @@ p. three {
   
 # Border Style  
 *You can control the style of a border using the border-style property. The property can take the
-folowing values.*  
+following values.*  
 
 1. solid   *a single solid line*
-2. dotted  *a seeries of square dots*
+2. dotted  *a series of square dots*
 3. dashed  *a series of short lines*  
 4. double  *two solid lines*  
 5. groove  *appears to be carved into the page*  
 6. ridge   *appears to stick out from the page*  
 7. inset   *appears embedded into the page*  
 8. outset  *looks like it is coming out of the screen*  
-9. hidden/non  *no borden is shown*    
+9. hidden/non  *no border is shown*    
 
 You can individually change the styles of different borders by using:  
 
@@ -146,7 +146,14 @@ border-left-style
 border-right-style  
 border-bottom-style  
  
- 
+ #Padding  
+ *Padding property allows you to specify how much space should appear betwen the content of an element and 
+ it's border*  
+
+# Margin  
+*Margin property controls the gap between boxes. It's value is commonly given in pixels, although you may also
+percentage or ems*  
+
 # Decisions & Loops  
 
 
