@@ -22,7 +22,17 @@ framename - Opens the linked document in a named frame
 - Grids help create flexible and professional designs.  
 - You can include multiple CSS files in one page.   
 
-
 # Functions, Methods, and Objects  
+*Functions let you group a series of statements together to perform a specific task. If different parts 
+of a script repeat the same task, you can reuse the function (rather then repeating the same set of statements).* n 
+
+A JavaScript function is defined with the function keyword, followed by a name, followed by parentheses ().
+
+Function names can contain letters, digits, underscores, and dollar signs (same rules as variables).
+
+The parentheses may include parameter names separated by commas:
+(parameter1, parameter2, ...)
+
+The code to be executed, by the function, is placed inside curly brackets: {}
 
 
