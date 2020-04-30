@@ -16,6 +16,11 @@ framename - Opens the linked document in a named frame
 
 # Layout  
 
+- <div> elements are often used as containing elements to group together sections of a page  
+- The float property to the left or right of the page and can be used to create multi-colum
+- layouts (floated items require a defined width).
+- Grids help create flexible and professional designs.  
+- You can include multiple CSS files in one page.   
 
 
 # Functions, Methods, and Objects  
