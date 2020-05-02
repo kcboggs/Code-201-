@@ -21,3 +21,4 @@ are best saved as JPEGs; illustrations or logos that use flat colors are better 
  left, center, right or justified. It can also be indented. You can use pseudo-classes to change the style of an  
  element when a user hovers over or clicks on the text, or when they have visited a link.  
  
+Jon Duckett http://www.htmlandcssbook.com/
