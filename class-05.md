@@ -12,6 +12,7 @@ are best saved as JPEGs; illustrations or logos that use flat colors are better 
  CSS3 has introduced an extra value for RGB colors to indicate opacity. It is known as RGBA.  
  CSS3 also allows you to specify colors as HSL values, with an optional opacicty value. It is known as HSLA.
  
+ 
  # Text  
  - There are properties to control the choice of font, size, weight, style and spacing. There is a limited  
  choice of fonts that you can assume most people will have installed. There are several options if you want  
