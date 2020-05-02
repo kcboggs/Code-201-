@@ -3,7 +3,7 @@
 to indicate a source of an image and an alt attribute to describe the content of an image. Photographs  
 are best saved as JPEGs; illustrations or logos that use flat colors are better saved as GIFs.
 
- # Color    
+# Color  
  - Color not only brings your site to life, but also helps convey the mood and evokes reactions.  
  There are three ways to specify colors in CSS: RGB values, hex codes, and color names.  
  Color pickers can help you find the color you want.  
