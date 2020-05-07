@@ -17,7 +17,7 @@ Brian Herbert once said:
 [Read-04 HTML Links, CSS Layout & JS Functions](class-04.md)  
 [Read-05 HTML Images, Color & Text](class-05.md)  
 [Read-06 JS Object Literals, The DOM](class-06.md)  
-[Read-07 HTML Labels, JS Constructor Functions](class07.md)  
+[Read-07 HTML Labels, JS Constructor Functions](class-07.md)  
 [Read-08 More CSS Layout](class-08.md)  
 [Read-09 Forms & Events](class-09.md)   
 [Read-10 JS Debugging](class-10.md)    
