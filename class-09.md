@@ -24,7 +24,7 @@ page has finished loaading or a button has been clicked).
 element you are waiting for that event to happen upon.  
 - When an event occurs on an element, it can trigger a JavaScript function. When this  
 function then changes the web page in some way, it feels interactive because it has  
-rsponded to the user.  
+responded to the user.  
 - You can use event delegation to monitor for events that happen on all of the cildren of an element.    
-- The most commonly used evemts are W3C DOM events, although there are others in the HTML5 specification  
-as well as brower-specific events.  
+- The most commonly used events are W3C DOM events, although there are others in the HTML5 specification  
+as well as browser-specific events.  
