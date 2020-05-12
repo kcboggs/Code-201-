@@ -1,3 +1,5 @@
+# Assorted Topics
+
 # Images  
 - You can specify the dimensions of images by using CSS.  
 This is very helpful when you use the same sized images  
