@@ -28,3 +28,5 @@ responded to the user.
 - You can use event delegation to monitor for events that happen on all of the cildren of an element.    
 - The most commonly used events are W3C DOM events, although there are others in the HTML5 specification  
 as well as browser-specific events.  
+
+Jon Duckett http://www.htmlandcssbook.com/
