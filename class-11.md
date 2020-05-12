@@ -38,3 +38,5 @@ computer to your web server.
 - Many companies provide platforms blogging, email newsletters  
 e-commerce and other popular website tools (to save you writting  
 them from scratch.  
+
+Jon Duckett http://www.htmlandcssbook.com/
