@@ -101,9 +101,37 @@ reset and we can start drawing new shapes.*
 *The third, and an optional step, is to call closePath(). This method tries to close the shape by drawing a  
 straight line from the current point to the start. If the shape has already been closed or there's only one  
 point in the list, this function does nothing.*  
-
-
   
 # Applying styles and colors  
 
+<b>Colors</b>  
+*If we want to apply colors to a shape, there are two important properties we can use: fillStyle and strokeStyle.*  
+
+fillStyle = color
+Sets the style used when filling shapes.  
+
+strokeStyle = color
+Sets the style for shapes' outlines.  
+
+*Color is a string representing a CSS < color >, a gradient object, or a pattern object. By default, the stroke  
+and fill color are set to black (CSS color value #000000).*  
+
+*The valid strings you can enter should, according to the specification, be CSS < color > values.*  
+
+<b>Transparency</b>  
+*In addition to drawing opaque shapes to the canvas, you can also draw semi-transparent (or translucent) shapes.  
+This is done by either setting the globalAlpha property or by assigning a semi-transparent color to the stroke  
+and/or fill style.*  
+
+globalAlpha = transparencyValue
+Applies the specified transparency value to all future shapes drawn on the canvas. The value must be between 0.0    
+(fully transparent) to 1.0 (fully opaque). This value is 1.0 (fully opaque) by default.  
+
+The globalAlpha property can be useful if you want to draw a lot of shapes on the canvas with similar transparency,  
+but otherwise it's generally more useful to set the transparency on individual shapes when setting their colors.  
+
+The rgba() function is similar to the rgb() function but it has one extra parameter. The last parameter sets the  
+transparency value of this particular color. The valid range is again between 0.0 (fully transparent) and 1.0 (fully opaque).
+
+    
 # Drawing text
