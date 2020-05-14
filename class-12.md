@@ -5,7 +5,7 @@
 These rules, however, don't affect the actual drawing on the canvas. When no styling rules are  
 applied to the canvas it will initially be fully transparent.*  
 
-<b>Fallback content</b>  
+#Fallback content  
 *The < canvas > element differs from an < img > tag in that, like for < video >, < audio >, or < picture >  
 elements, it is easy to define some fallback content, to be displayed in older browsers not supporting  
 it, like versions of Internet Explorer earlier than version 9 or textual browsers. You should always  
@@ -16,7 +16,7 @@ provide fallback content to be displayed by those browsers.*
 the fallback content inside it. Browsers that do support < canvas > will ignore the content inside  
 the container, and just render the canvas normally.*  
 
-<b>Required </ canvas > tag</b>  
+#Required </ canvas > tag </ b >  
 *As a consequence of the way fallback is provided, unlike the <img> element, the < canvas > element requires  
 the closing tag (</ canvas >). If this tag is not present, the rest of the document would be considered  
 the fallback content and wouldn't be displayed* 
@@ -24,7 +24,7 @@ the fallback content and wouldn't be displayed*
 *If fallback content is not needed, a simple <canvas id="foo" ...> </ canvas > is fully compatible with  
 all browsers that support canvas at all.*  
 
-<b>The rendering context</b>  
+#The rendering context  
 *The < canvas > element creates a fixed-size drawing surface that exposes one or more rendering contexts,  
 which are used to create and manipulate the content shown. In this tutorial, we focus on the 2D rendering  
 context. Other contexts may provide different types of rendering; for example, WebGL uses a 3D context based  
@@ -42,13 +42,13 @@ those covered by this tutorial, you specify "2d" to get a CanvasRenderingContext
 the document.getElementById() method. Once you have the element node, you can access the drawing context using  
 its getContext() method.*  
 
-<b>Checking for support</b>  
-*The fallback content is displayed in browsers which do not support <canvas>. Scripts can also check for support  
+#Checking for support  
+*The fallback content is displayed in browsers which do not support < canvas >. Scripts can also check for support  
 programmatically by simply testing for the presence of the getContext() method.*  
 
 # Drawing shapes with canvas  
 
-<b>Drawing rectangles</b>  
+#Drawing rectangles  
 *Unlike SVG, < canvas > only supports two primitive shapes: rectangles and paths (lists of points connected by lines).  
 All other shapes must be created by combining one or more paths*  
 
@@ -66,7 +66,7 @@ Clears the specified rectangular area, making it fully transparent.
 *Each of these three functions takes the same parameters. x and y specify the position on the canvas   
 (relative to the origin) of the top-left corner of the rectangle. width and height provide the rectangle's size.
 
-<b>Drawing paths</b>  
+#Drawing paths  
 *A path is a list of points, connected by segments of lines that can be of different shapes, curved or not, of  
 different width and of different color. A path, or even a subpath, can be closed. To make shapes using paths,  
 we take some extra steps:*  
@@ -104,7 +104,7 @@ point in the list, this function does nothing.*
   
 # Applying styles and colors  
 
-<b>Colors</b>  
+#Colors  
 *If we want to apply colors to a shape, there are two important properties we can use: fillStyle and strokeStyle.*  
 
 fillStyle = color
@@ -118,7 +118,7 @@ and fill color are set to black (CSS color value #000000).*
 
 *The valid strings you can enter should, according to the specification, be CSS < color > values.*  
 
-<b>Transparency</b>  
+#Transparency  
 *In addition to drawing opaque shapes to the canvas, you can also draw semi-transparent (or translucent) shapes.  
 This is done by either setting the globalAlpha property or by assigning a semi-transparent color to the stroke  
 and/or fill style.*  
@@ -143,7 +143,7 @@ Fills a given text at the given (x,y) position. Optionally with a maximum width 
 strokeText(text, x, y [, maxWidth])
 Strokes a given text at the given (x,y) position. Optionally with a maximum width to draw.  
 
-<b>Styling text</b>  
+#Styling text  
 *There are some more properties which let you adjust the way the text gets displayed on the canvas:*  
 
 font = value
@@ -161,17 +161,18 @@ direction = value
 Directionality. Possible values: ltr, rtl, inherit. The default value is inherit.
 These properties might be familiar to you, if you have worked with CSS before.  
 
-<b>Advanced text measurements</b>  
+#Advanced text measurements  
 
 measureText()
 Returns a TextMetrics object containing the width, in pixels, that the specified text will be when drawn  
 in the current text style.  
 
-<b>Gecko-specific notes</b>  
+#Gecko-specific notes  
 
 *In Gecko (the rendering engine of Firefox, Firefox OS and other Mozilla based applications), some prefixed  
 APIs were implemented in earlier versions to draw text on a canvas. These are now deprecated and removed, and  
 are no longer guaranteed to work.*
+
 
 https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage
 https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes
