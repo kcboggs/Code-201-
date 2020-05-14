@@ -144,7 +144,7 @@ strokeText(text, x, y [, maxWidth])
 Strokes a given text at the given (x,y) position. Optionally with a maximum width to draw.  
 
 <b>Styling text</b>  
-* There are some more properties which let you adjust the way the text gets displayed on the canvas:*  
+*There are some more properties which let you adjust the way the text gets displayed on the canvas:*  
 
 font = value
 The current text style being used when drawing text. This string uses the same syntax as the CSS font property.  
@@ -172,3 +172,8 @@ in the current text style.
 *In Gecko (the rendering engine of Firefox, Firefox OS and other Mozilla based applications), some prefixed  
 APIs were implemented in earlier versions to draw text on a canvas. These are now deprecated and removed, and  
 are no longer guaranteed to work.*
+
+https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage
+https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes
+https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text
+https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text
