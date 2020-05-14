@@ -40,9 +40,31 @@ those covered by this tutorial, you specify "2d" to get a CanvasRenderingContext
 
 *The first line in the script retrieves the node in the DOM representing the < canvas > element by calling  
 the document.getElementById() method. Once you have the element node, you can access the drawing context using  
-its getContext() method.*
-  
- # Drawing shapes with canvas    
+its getContext() method.*  
+
+<b>Checking for support</b>  
+*The fallback content is displayed in browsers which do not support <canvas>. Scripts can also check for support  
+programmatically by simply testing for the presence of the getContext() method.*  
+
+# Drawing shapes with canvas  
+
+<b>Drawing rectangles</b>  
+*Unlike SVG, < canvas > only supports two primitive shapes: rectangles and paths (lists of points connected by lines).  
+All other shapes must be created by combining one or more paths*  
+
+*There are three functions that draw rectangles on the canvas:  
+
+fillRect(x, y, width, height)
+Draws a filled rectangle.  
+
+strokeRect(x, y, width, height)
+Draws a rectangular outline.  
+
+clearRect(x, y, width, height)
+Clears the specified rectangular area, making it fully transparent.  
+
+*Each of these three functions takes the same parameters. x and y specify the position on the canvas   
+(relative to the origin) of the top-left corner of the rectangle. width and height provide the rectangle's size.
 
 
 # Applying styles and colors  
