@@ -132,6 +132,43 @@ but otherwise it's generally more useful to set the transparency on individual s
 
 The rgba() function is similar to the rgb() function but it has one extra parameter. The last parameter sets the  
 transparency value of this particular color. The valid range is again between 0.0 (fully transparent) and 1.0 (fully opaque).
-
     
-# Drawing text
+# Drawing text  
+
+The canvas rendering context provides two methods to render text:  
+
+fillText(text, x, y [, maxWidth])
+Fills a given text at the given (x,y) position. Optionally with a maximum width to draw.  
+
+strokeText(text, x, y [, maxWidth])
+Strokes a given text at the given (x,y) position. Optionally with a maximum width to draw.  
+
+<b>Styling text</b>  
+* There are some more properties which let you adjust the way the text gets displayed on the canvas:*  
+
+font = value
+The current text style being used when drawing text. This string uses the same syntax as the CSS font property.  
+The default font is 10px sans-serif.  
+
+textAlign = value
+Text alignment setting. Possible values: start, end, left, right or center. The default value is start.  
+
+textBaseline = value
+Baseline alignment setting. Possible values: top, hanging, middle, alphabetic, ideographic, bottom. The default  
+value is alphabetic.  
+
+direction = value
+Directionality. Possible values: ltr, rtl, inherit. The default value is inherit.
+These properties might be familiar to you, if you have worked with CSS before.  
+
+<b>Advanced text measurements</b>  
+
+measureText()
+Returns a TextMetrics object containing the width, in pixels, that the specified text will be when drawn  
+in the current text style.  
+
+<b>Gecko-specific notes</b>  
+
+*In Gecko (the rendering engine of Firefox, Firefox OS and other Mozilla based applications), some prefixed  
+APIs were implemented in earlier versions to draw text on a canvas. These are now deprecated and removed, and  
+are no longer guaranteed to work.*
