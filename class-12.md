@@ -66,7 +66,44 @@ Clears the specified rectangular area, making it fully transparent.
 *Each of these three functions takes the same parameters. x and y specify the position on the canvas   
 (relative to the origin) of the top-left corner of the rectangle. width and height provide the rectangle's size.
 
+<b>Drawing paths</b>  
+*A path is a list of points, connected by segments of lines that can be of different shapes, curved or not, of  
+different width and of different color. A path, or even a subpath, can be closed. To make shapes using paths,  
+we take some extra steps:*  
 
+1. First, you create the path.  
+2. Then you use drawing commands to draw into the path.  
+3. Once the path has been created, you can stroke or fill the path to render it.  
+
+Here are the functions used to perform these steps:
+
+beginPath()
+Creates a new path. Once created, future drawing commands are directed into the path and used to build the path up.  
+
+Path methods
+Methods to set different paths for objects.  
+
+closePath()
+Adds a straight line to the path, going to the start of the current sub-path.  
+
+stroke()
+Draws the shape by stroking its outline.  
+
+fill()
+Draws a solid shape by filling the path's content area.  
+
+*The first step to create a path is to call the beginPath(). Internally, paths are stored as a list of  
+sub-paths (lines, arcs, etc) which together form a shape. Every time this method is called, the list is  
+reset and we can start drawing new shapes.*  
+
+*The second step is calling the methods that actually specify the paths to be drawn. We'll see these shortly.*  
+
+*The third, and an optional step, is to call closePath(). This method tries to close the shape by drawing a  
+straight line from the current point to the start. If the shape has already been closed or there's only one  
+point in the list, this function does nothing.*  
+
+
+  
 # Applying styles and colors  
 
 # Drawing text
