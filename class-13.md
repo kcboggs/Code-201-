@@ -134,12 +134,26 @@ function handle_storage(e) {
   if (!e) { e = window.event; }  
 }  
 
-At this point, the variable e will be a StorageEvent object, which has the following useful properties.  
+*The storage event is not cancelable. From within the handle_storage callback function, there is no way to stop the change from occurring. It’s simply a way for the browser to tell you, “hey, this just happened. There’s nothing you can do about it now; I just wanted to let you know.”*  
 
-STORAGEEVENT OBJECT
-PROPERTY	TYPE	DESCRIPTION
-key	string	the named key that was added, removed, or modified
-oldValue	any	the previous value (now overwritten), or null if a new item was added
-newValue	any	the new value, or null if an item was removed
-url*	string	the page which called a method that triggered this change
-* Note: the url property was originally called uri. Some browsers shipped with that property before the specification changed. For maximum compatibility, you should check whether the url property exists, and if not, check for the uri property instead.
+# LIMITATIONS IN CURRENT BROWSERS  
+*“5 megabytes” is how much storage space each origin gets by default. This is surprisingly consistent across browsers, although it is phrased as no more than a suggestion in the HTML5 Storage specification. One thing to keep in mind is that you’re storing strings, not data in its original format. If you’re storing a lot of integers or floats, the difference in representation can really add up. Each digit in that float is being stored as a character, not in the usual representation of a floating point number.*  
+
+*“QUOTA_EXCEEDED_ERR” is the exception that will get thrown if you exceed your storage quota of 5 megabytes. “No” is the answer to the next obvious question, “Can I ask the user for more storage space?” At time of writing (February 2011), no browser supports any mechanism for web developers to request more storage space. Some browsers (like Opera) allow the user to control each site’s storage quota, but it is purely a user-initiated action, not something that you as a web developer can build into your web application.*  
+
+# BEYOND NAMED KEY-VALUE PAIRS: COMPETING VISIONS  
+*While the past is littered with hacks and workarounds, the present condition of HTML5 Storage is surprisingly rosy. A new API has been standardized and implemented across all major browsers, platforms, and devices. As a web developer, that’s just not something you see every day, is it? But there is more to life than “5 megabytes of named key/value pairs,” and the future of persistent local storage is… how shall I put it… well, there are competing visions.*  
+
+*One vision is an acronym that you probably know already: SQL. In 2007, Google launched Gears, an open source cross-browser plugin which included an embedded database based on SQLite. This early prototype later influenced the creation of the Web SQL Database specification. Web SQL Database (formerly known as “WebDB”) provides a thin wrapper around a SQL database, allowing you to do things like this from JavaScript:*  
+
+↶ actual working code in 4 browsers  
+
+openDatabase('documents', '1.0', 'Local document storage', 5*1024*1024, function (db) {  
+  db.changeVersion('', '1.0', function (t) {  
+    t.executeSql('CREATE TABLE docids (id, name)');  
+  }, error);  
+});  
+
+
+
+
